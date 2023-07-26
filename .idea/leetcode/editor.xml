@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/QueueReconstructionByHeight.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/QueueReconstructionByHeight.md" />
+              <option name="frontendQuestionId" value="leetcode.com406" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/QueueReconstructionByHeight.java" />
+              <option name="titleSlug" value="queue-reconstruction-by-height" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/ReverseVowelsOfAString.java">
           <value>
             <LeetcodeEditor>
