@@ -2,6 +2,7 @@ package com.gavin.leetcode.editor.en;
 /*2023-07-25 23:30:19*/
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 /**
 Given an array of intervals intervals where intervals[i] = [starti, endi], 
@@ -57,7 +58,7 @@ public class NonOverlappingIntervals{
 class Solution {
     public int eraseOverlapIntervals(int[][] intervals) {
         // sort by start
-        Arrays.sort(intervals, ((o1, o2) -> (o1[0] - o2[0])));
+        Arrays.sort(intervals, (Comparator.comparingInt(o -> o[0])));
         int count = 0;
         int end = intervals[0][1];
         for (int i = 1; i < intervals.length; i++) {
