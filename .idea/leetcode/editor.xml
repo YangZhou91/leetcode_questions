@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FindMinimumInRotatedSortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/FindMinimumInRotatedSortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.com153" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FindMinimumInRotatedSortedArray.java" />
+              <option name="titleSlug" value="find-minimum-in-rotated-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FindSmallestLetterGreaterThanTarget.java">
           <value>
             <LeetcodeEditor>
