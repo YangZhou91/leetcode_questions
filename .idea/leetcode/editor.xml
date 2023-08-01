@@ -179,6 +179,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/PerfectSquares.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/PerfectSquares.md" />
+              <option name="frontendQuestionId" value="leetcode.com279" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/PerfectSquares.java" />
+              <option name="titleSlug" value="perfect-squares" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/QueueReconstructionByHeight.java">
           <value>
             <LeetcodeEditor>
