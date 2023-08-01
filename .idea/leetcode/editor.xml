@@ -58,6 +58,61 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/DifferentWaysToAddParentheses.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/DifferentWaysToAddParentheses.md" />
+              <option name="frontendQuestionId" value="leetcode.com241" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/DifferentWaysToAddParentheses.java" />
+              <option name="titleSlug" value="different-ways-to-add-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FindFirstAndLastPositionOfElementInSortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/FindFirstAndLastPositionOfElementInSortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.com34" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FindFirstAndLastPositionOfElementInSortedArray.java" />
+              <option name="titleSlug" value="find-first-and-last-position-of-element-in-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FindMinimumInRotatedSortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/FindMinimumInRotatedSortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.com153" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FindMinimumInRotatedSortedArray.java" />
+              <option name="titleSlug" value="find-minimum-in-rotated-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FindSmallestLetterGreaterThanTarget.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/FindSmallestLetterGreaterThanTarget.md" />
+              <option name="frontendQuestionId" value="leetcode.com744" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FindSmallestLetterGreaterThanTarget.java" />
+              <option name="titleSlug" value="find-smallest-letter-greater-than-target" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FirstBadVersion.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/FirstBadVersion.md" />
+              <option name="frontendQuestionId" value="leetcode.com278" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/FirstBadVersion.java" />
+              <option name="titleSlug" value="first-bad-version" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/KthLargestElementInAnArray.java">
           <value>
             <LeetcodeEditor>
@@ -146,6 +201,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/PartitionLabels.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/PartitionLabels.md" />
+              <option name="frontendQuestionId" value="leetcode.com763" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/PartitionLabels.java" />
+              <option name="titleSlug" value="partition-labels" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/PerfectSquares.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/PerfectSquares.md" />
+              <option name="frontendQuestionId" value="leetcode.com279" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/PerfectSquares.java" />
+              <option name="titleSlug" value="perfect-squares" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/QueueReconstructionByHeight.java">
           <value>
             <LeetcodeEditor>
@@ -168,6 +245,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/ShortestPathInBinaryMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/ShortestPathInBinaryMatrix.md" />
+              <option name="frontendQuestionId" value="leetcode.com1091" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/ShortestPathInBinaryMatrix.java" />
+              <option name="titleSlug" value="shortest-path-in-binary-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/SingleElementInASortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/SingleElementInASortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.com540" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/SingleElementInASortedArray.java" />
+              <option name="titleSlug" value="single-element-in-a-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/SortCharactersByFrequency.java">
           <value>
             <LeetcodeEditor>
@@ -187,6 +286,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/SortColors.java" />
               <option name="titleSlug" value="sort-colors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/Sqrtx.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/Sqrtx.md" />
+              <option name="frontendQuestionId" value="leetcode.com69" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/Sqrtx.java" />
+              <option name="titleSlug" value="sqrtx" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -231,6 +341,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/TwoSumIiInputArrayIsSorted.java" />
               <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/UniqueBinarySearchTreesIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/UniqueBinarySearchTreesIi.md" />
+              <option name="frontendQuestionId" value="leetcode.com95" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/UniqueBinarySearchTreesIi.java" />
+              <option name="titleSlug" value="unique-binary-search-trees-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
