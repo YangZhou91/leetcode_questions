@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/IsSubsequence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/IsSubsequence.md" />
+              <option name="frontendQuestionId" value="leetcode.com392" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/IsSubsequence.java" />
+              <option name="titleSlug" value="is-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/KthLargestElementInAnArray.java">
           <value>
             <LeetcodeEditor>
@@ -80,6 +91,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/MaximumSubarray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/MaximumSubarray.md" />
+              <option name="frontendQuestionId" value="leetcode.com53" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/MaximumSubarray.java" />
+              <option name="titleSlug" value="maximum-subarray" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/MergeSortedArray.java">
           <value>
             <LeetcodeEditor>
@@ -99,6 +121,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/MinimumNumberOfArrowsToBurstBalloons.java" />
               <option name="titleSlug" value="minimum-number-of-arrows-to-burst-balloons" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/NonDecreasingArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/doc/content/NonDecreasingArray.md" />
+              <option name="frontendQuestionId" value="leetcode.com665" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/gavin/leetcode/editor/en/NonDecreasingArray.java" />
+              <option name="titleSlug" value="non-decreasing-array" />
             </LeetcodeEditor>
           </value>
         </entry>
