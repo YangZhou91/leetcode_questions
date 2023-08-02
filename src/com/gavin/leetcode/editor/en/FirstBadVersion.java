@@ -45,13 +45,13 @@ Output: 1
 */
 
 public class FirstBadVersion{
-    public static void main(String[] args){
-        Solution solution = new FirstBadVersion().new Solution();
-    }
+//    public static void main(String[] args){
+//        Solution solution = new FirstBadVersion().new Solution();
+//    }
     //leetcode submit region begin(Prohibit modification and deletion)
 /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
-
+/*
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
         int low = 1, high = n;
@@ -69,6 +69,8 @@ public class Solution extends VersionControl {
         return low;
     }
 }
+
+ */
 //leetcode submit region end(Prohibit modification and deletion)
 
 }

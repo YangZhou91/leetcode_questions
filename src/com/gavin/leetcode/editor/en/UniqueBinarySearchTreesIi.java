@@ -79,11 +79,16 @@ class Solution {
             List<TreeNode> rTree = build(i + 1, r);
             for (TreeNode left : lTree) {
                 for (TreeNode right : rTree) {
-                    TreeNode root = new TreeNode(i);
-                    root.left = left;
-                    root.right = right;
-                    result.add(root);
+
+//              for debug
+                /*
+                TreeNode root = new TreeNode(i);
+                root.left = left;
+                root.right = right;
+                result.add(root);
+                */
                 }
+
             }
         }
         return result;
