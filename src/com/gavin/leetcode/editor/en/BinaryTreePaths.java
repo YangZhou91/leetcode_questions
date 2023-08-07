@@ -59,6 +59,7 @@ public class BinaryTreePaths{
  * }
  */
 class Solution {
+    /*
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> paths = new ArrayList<>();
         List<Integer> values = new ArrayList<>();
@@ -96,7 +97,7 @@ class Solution {
             }
         }
         return stringBuilder.toString();
-    }
+    }*/
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
